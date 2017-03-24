@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WiFiMacAccess</string>
+    <string name="facebook_app_id">1830978123818101</string>
+    // if your App ID is 1234567, you should use fb1234567
+    <string name="fb_login_protocol_scheme">fb1830978123818101</string>
+</resources>
